@@ -26,8 +26,8 @@ console.log('Nafe Ibne Dalower'.length) // Length
 console.log('Nafe Ibne Dalower'.toUpperCase()) // Uppercase
 console.log('Nafe Ibne Dalower'.toLowerCase()) // Lowercase
 console.log('Nafe'.concat(' Ibne Dalower')) // Concat
-console.log('Nafe'.substring(0,4)) // substr
-console.log('Nafe'.charAt(0)) // substr
+console.log('Nafe'.substring(0,4)) // substring
+console.log('Nafe'.charAt(0)) // charAt
 console.log('Nafe'.startsWith('N'))
 console.log('Nafe'.endsWith('N'))
 console.log("       Nafe Ibne Dalower".trim()) // trim
